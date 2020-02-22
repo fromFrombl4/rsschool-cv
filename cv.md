@@ -3,7 +3,7 @@
 **Contacts**
 *phone number:* +375336038467, 
 *Telegram:* @dartxj, 
-[Github] (https://github.com/fromFrombl4)
+[Github](https://github.com/fromFrombl4)
 
  **About me**
  *My first experience in programming was at school, I gained in IT lessons. Then at the university every person chooses his future field of activity. Having tried different technologies like Java, Python, C#, I wanted the area which would be so interesting for me and there would not be no way back.
